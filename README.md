@@ -1,4 +1,4 @@
-Data Sets Descipción: 
+Data Sets Descipciónr: 
 
   BaseDemandaDIARIA_EE_por_region: Describe la demanda horaria de energía electrica para Argentina desde Enero del 2022 hasta Febrero de 2025. (Fuente CAMMESA)
       Sus columnas contienen fecha y hora, demanda por tipo de usuario (Gran usuario MEM (MWh), distribuidor (MWh) y su suma, demanda Local (MWh)). También desglosa la demanda Local por provincia
